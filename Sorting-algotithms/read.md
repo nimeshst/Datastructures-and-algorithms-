@@ -3,7 +3,8 @@ Sorting algorithms covered here are
 bubble sort 
 insertion sort 
 selection sort
-
+quick
+merge
 ------------------
 to do 
 ------------------
@@ -11,5 +12,3 @@ to do
 bucket 
 radix
 shell
-quick
-merge
